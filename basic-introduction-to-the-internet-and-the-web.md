@@ -1,5 +1,3 @@
-## Basic Introduction to the Internet and the Web
-
 ## Table of content
 
 - Introduction
@@ -44,7 +42,7 @@ Simply put, internet arrives to your doorstep via the phone-line.
 Phone-lines transmit light signals, in order to use the internet, these light signals must be converted to electricity via a **modem**, which you connect to via Wi-Fi or Ethernet.
 
 
-## The journey of data sent between two devices
+## The journey of data sent between two devices
 
 In order to send data from a device to another, a connection must first be established.
 
@@ -61,7 +59,7 @@ The router of this example is one of many special interconnected routers that ar
 An **ISP** is an organization that sells internet, web hosting etc. It takes care of distributing internet and its services.
 
 
-## How do we surf the web?
+## How do we surf the web?
 
 We access the web using software called **browsers** which allow us to view websites and navigate through them.
 
@@ -84,7 +82,7 @@ Now that our ***URL*** is typed and we press *Enter*… is where the fun all beg
 
 Continuing on the **URL** example www.facebook.com
 
-### 1. The browser checks the cache for the DNS record
+### 1. The browser checks the cache for the DNS record
 
 The browser checks in the cache memory for a previous entry of the domain name (facebook.com) in a **DNS** record.
 
@@ -133,6 +131,7 @@ Have a nice one.
 
 Photo by <a href="https://unsplash.com/@nasa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">NASA</a> on <a href="https://unsplash.com/s/photos/internet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
+
 
 
 

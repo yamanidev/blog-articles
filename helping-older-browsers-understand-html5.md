@@ -1,5 +1,3 @@
-## Helping Older Browsers Understand HTML5
-
 ## Table of content
 
 - Introduction
@@ -122,4 +120,5 @@ Photo by <a href="https://unsplash.com/@jacksonsophat?utm_source=unsplash&utm_me
 
 
  
+
 
