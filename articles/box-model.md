@@ -2,7 +2,7 @@
 
 - Introduction
 - What's the box model?
-- Different types of boxes
+- Types of boxes
 - Box sizing
 - Bonus tip
 - Conclusion
@@ -35,19 +35,19 @@ Put simply, every HTML element is a box of this sort:
 ![a box model diagram](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ehqv1npf33xkw8iukih.png)
 
 
-Every box has a content area. An element's content could be text, an image, nested elements etc.
+Every box has a **content area**. An element's content could be text, an image, nested elements etc.
 
 In addition to the content area, an element may also have (as shown above):
 
-- Padding area: space between the content and the border. The size of this area is defined by padding properties: `padding-top`, `padding-right`, `padding-bottom` and `padding-left`. Or simply the `padding` shorthand.
+- **Padding area**: space between the content and the border. The size of this area is defined by padding properties: `padding-top`, `padding-right`, `padding-bottom` and `padding-left`. Or simply the `padding` shorthand.
 
-- Border area: space between the padding and the margin. The size of this area is defined by the `border-width` properties (same drill as the padding: top, right, bottom and left).
+- **Border are**: space between the padding and the margin. The size of this area is defined by the `border-width` properties (same drill as the padding: top, right, bottom and left).
 
-- Margin area: space between an element and its neighbors. The size of this area is defined by the `margin` properties, negative values can be provided for margins.
+- **Margin area**: space between an element and its neighbors. The size of this area is defined by the `margin` properties, negative values can be provided for margins.
 
 ### Quick explanation of shorthands (feel free to skip if you are familiar with them):
 
-Shorthand properties are combinations of other properties written. We use them to write less code and easily read it.
+Shorthand properties are CSS properties that combine other properties. We use them to write less code and easily read it.
 
 We'll use `padding` as an example, the same idea applies for other shorthands as well.
 
@@ -91,7 +91,7 @@ padding-left: 4rem;
 A rule of thumb to remember this last part is to picture the motion of a clock: it goes from the top, to the right, to the bottom and then to the left.
 
 
-## Different types of boxes
+## Types of boxes
 
 Now that we've had an overview of how elements are represented as boxes. We'll now discover how different types of boxes have different behaviors.
 
@@ -216,4 +216,4 @@ Follow my blog and my [Twitter](https://twitter.com/yamanidev) for more!
 
 Have a nice one.
 
-Photo by <a href="https://unsplash.com/@kseegars?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kadarius Seegars</a> on <a href="https://unsplash.com/s/photos/boxes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by <a href="https://unsplash.com/@kelli_mcclintock?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kelli McClintock</a> on <a href="https://unsplash.com/s/photos/boxes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
