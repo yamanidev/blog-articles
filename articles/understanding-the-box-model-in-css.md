@@ -166,7 +166,7 @@ The rendered dimensions would not be equal to the `height` and `width` specified
 
 But rather (for the width) `width` + `padding-left` + `padding-right` + `border-left-width` + `border-right-width`.
 
-Visual representation from my developer tools (I use Firfox, this is from Firefox. Use Firefox):
+Visual representation from my developer tools (I use Firefox, this is from Firefox. Use Firefox):
 
 ![box model in developer tools of previous example](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cfnaul99lq4phfd929ot.png)
  
