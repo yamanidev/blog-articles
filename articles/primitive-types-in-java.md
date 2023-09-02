@@ -1,3 +1,10 @@
+---
+external: false
+title: 'Primitive Types in Java'
+description: ''
+date: 2021-05-05
+---
+
 ## Introduction
 
 You can think of data (variables) in our programs as boxes that contain values. They vary in **size **and in **shape**, but they’re fundamentally containers of data, nothing fancier.
@@ -19,7 +26,7 @@ Primitives are variables of fundamental types (they hold simple bit patterns), y
 
 You can consider the previous guessing as a game you can play before you learn about the concept, that’s what I personally do and I have found that it helps!
 
-Now enough of me rambling, there are 8 primitive types in Java (refer to this  [link](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html) for more details):
+Now enough of me rambling, there are 8 primitive types in Java (refer to this [link](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html) for more details):
 
 - **boolean**: true or false values
 - **char**: 16 bit-sized characters (it uses Unicode system and ASCII)
@@ -48,13 +55,12 @@ From the previous list of primitive types you can clearly notice that an **int *
 
 Consider this example:
 
-
-```
+```java
 // Creating two boxes, x and y of types int and short respectively
 int x = 30;
 short y = x;
 // This provokes an error (incompatible types)
-``` 
+```
 
 Isn’t it strange though?
 
@@ -68,12 +74,11 @@ We cannot place a big box into a smaller one.
 
 But how about going the other way around?
 
-
-```
+```java
 short y = 30;
 int x = y;
 // Works like a charm
-``` 
+```
 
 Always referring back to our box analogy, this worked because we are placing a small box (**short** variable) into a bigger box (**int** variable).
 
@@ -87,11 +92,10 @@ Primitives are NOT objects. So the next time someone rants about how everything 
 
 You can access the members of an object (attributes and methods) using the “.” like so:
 
-
-```
+```java
 object.someAttribute
 object.someMethod()
-``` 
+```
 
 As we said, we’ll get into all of this in the next article. I pointed this out to so that if you find the “.” used with a variable, know that it is an object and not a primitive!
 

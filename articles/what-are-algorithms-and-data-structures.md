@@ -1,19 +1,23 @@
+---
+external: false
+title: 'What are Algorithms and Data Structures?'
+description: ''
+date: 2021-02-15
+---
+
 Hello there and welcome!!
 
 Today we'll be discussing **what are Data Structures and Algorithms** (which we'll be referring to as DSA for short throughout the article). With that being said, let's get right into it!
 
-
 ### Introduction
 
-*What do you think programmers do?*
+_What do you think programmers do?_
 
 The answer is way simpler than it is expected to be; **they solve problems**.
 
-*Now how do they concretely do that?*
+_Now how do they concretely do that?_
 
-
-> 
-They try to store data in the most efficient way to manipulate it in logical and explicit steps to produce a desired output.
+> They try to store data in the most efficient way to manipulate it in logical and explicit steps to produce a desired output.
 
 We will be elaborating on the last sentence
 
@@ -31,9 +35,9 @@ These information will not be magically stored on your computers, they need expl
 
 Some examples of DS's are: arrays, linked lists, queues, stacks...
 
-Here's an exhaustive list of them for the interested:  [Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)  
+Here's an exhaustive list of them for the interested: [Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
 
-***So how do I pick the right representation?***
+**_So how do I pick the right representation?_**
 
 Before answering that, let us introduce Algorithms!
 
@@ -43,8 +47,7 @@ So far our scope was limited to computer science, but it will get broadened here
 
 This is the fun part! Many of us live by algorithms unknowingly!
 
-> 
-Algorithms are logical and concise sequence of steps that solves a particular problem.
+> Algorithms are logical and concise sequence of steps that solves a particular problem.
 
 Throughout your programming journey, you will learn that everything boils down to making problem (which often is seemingly simple), even SIMPLER!!
 
@@ -86,7 +89,7 @@ Now let's return to our hotel example!
 
 Remember my question?
 
-***How to pick the right data structure for a given problem?***
+**_How to pick the right data structure for a given problem?_**
 
 You first need to get acquainted with the type of operations that need to be taken upon the data.
 

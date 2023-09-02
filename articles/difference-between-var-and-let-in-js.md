@@ -1,5 +1,11 @@
-One of the features that ES6 (ECMAScript 2015) introduced was **let** and **const** which raised some confusion between **var** and **let**. If we could already declare variables with **var** why do we need **let**? What's the difference between them? Today we will discover that!
+---
+external: false
+title: 'Difference Between var and let in JavaScript'
+description: ''
+date: 2021-03-19
+---
 
+One of the features that ES6 (ECMAScript 2015) introduced was **let** and **const** which raised some confusion between **var** and **let**. If we could already declare variables with **var** why do we need **let**? What's the difference between them? Today we will discover that!
 
 ## The legendary battle: let vs var
 
@@ -7,50 +13,45 @@ One of the features that ES6 (ECMAScript 2015) introduced was **let** and **cons
 
 Variables declared with **var** are said to be function scoped. They are only known inside the body of the function where they were declared:
 
-
-```
-function test(){
-    var something = "Banana man";
-    console.log(something)
+```javascript
+function test() {
+  var something = 'Banana man';
+  console.log(something);
 }
 
 test(); // "Banana man"
 console.log(something); // ReferenceError
 // Because we are outside of the variable's scope
-``` 
+```
 
 Another example would be:
 
-```
-for (var i = 0; i < 3; ++i){
-    //some sick code
+```javascript
+for (var i = 0; i < 3; ++i) {
+  //some sick code
 }
 console.log(i); // 3
-``` 
-
+```
 
 Variables declared with **let** are said to be block scoped. They are only known inside of the block they were declared in:
 
-
-```
-for (let i = 0; i < 3; ++i){
-    //another sick code
+```javascript
+for (let i = 0; i < 3; ++i) {
+  //another sick code
 }
 console.log(i); // ReferenceError
-``` 
+```
 
-A block is code between the curly brackets {} 
+A block is code between the curly brackets {}
 
-
-###  2) Hoisting
+### 2) Hoisting
 
 But what if...
 
-
-```
+```javascript
 console.log(something); // undefined
-var something = "Banana boy";
-``` 
+var something = 'Banana boy';
+```
 
 We wouldn't expect such result because it doesn't make sense, how the hell would it recognize the variable **something** if it was not declared yet?
 
@@ -66,20 +67,18 @@ In the example above, we notice that the variable **something** was initialized 
 
 It is "equivalent" to:
 
-
-```
+```javascript
 var something; // declaration "moved" to the top
 console.log(something); // undefined
-something = "Banana boy";
-``` 
+something = 'Banana boy';
+```
 
 Now when it comes to variables declared with **let** we do not encounter such result:
 
-
-```
+```javascript
 console.log(something); // ReferenceError
-let something = "banana"; 
-``` 
+let something = 'banana';
+```
 
 We cannot access or use variables declared with **let** before initialization.
 
@@ -93,25 +92,21 @@ No. They are indeed hoisted, in a different way. I will explain how that is the 
 
 - Variables defined with **let** are known inside of the block they are defined in, only AFTER the declaration.
 
-
 ### 3) Global object property
 
 When a variable is defined globally with **var**, it becomes a property of the window object:
 
-
+```javascript
+var x = 'Banana girl';
+console.log(window.x); // "Banana girl"
 ```
-var x = "Banana girl"
-console.log(window.x) // "Banana girl"
-``` 
-
 
 That is not the case with global variables defined with **let** though:
 
-
-```
-let y = "boi"
+```javascript
+let y = 'boi';
 console.log(window.y); // undefined
-``` 
+```
 
 ### 4) Redefining
 
@@ -119,14 +114,12 @@ You can redefine the same variable with **var**.
 
 But when you try to do that with **let**, it raises SyntaxError:
 
-
-```
+```javascript
 var x = 30;
 var x = 300; // Valid
-let boo = "cacao";
-let boo = "never mind"; // Uncaught SyntaxError
-``` 
-
+let boo = 'cacao';
+let boo = 'never mind'; // Uncaught SyntaxError
+```
 
 ### Why was "let" introduced?
 
@@ -145,14 +138,3 @@ Any feedback or constructive critique is warmly welcomed and appreciated, so ple
 Follow my blog and my [Twitter](https://twitter.com/yamanidev) for more!
 
 Have a nice one!
-
-
-
- 
-
-
-
-
-
-
-

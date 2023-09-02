@@ -1,6 +1,14 @@
+---
+external: false
+title: 'What is Programming? 👩‍💻'
+description: ''
+date: 2021-01-29
+---
+
 Hello there everyone and welcome to my very first blog post 😃!
 
 #### A brief introduction of myself:
+
 My name is Mohamed, a 20 year old Computer Science undergraduate who resolved recently to start sharing what I learn mainly in **Web Development** and **Python programming** in the most simplest of terms my tiny brain can come up with. Let's get started shall we 😊!
 
 ### Your absolute best friend:
@@ -9,11 +17,9 @@ Many of us underestimate the tool that is deliberately available for us and FOR 
 
 With that being said, let's hear what [Wikipedia](https://en.wikipedia.org/wiki/Computer_programming) has to say about programming:
 
+> Computer programming is the process of designing and building an executable computer program to accomplish a specific computing result or to perform a specific task.
 
-> 
-Computer programming is the process of designing and building an executable computer program to accomplish a specific computing result or to perform a specific task.
-
-"What a hell of a search that was, I feel like I am back to square one". Some of you (if not most) would find formal definitions to be a bit confusing and troubling so I will try to simplify it for you. 
+"What a hell of a search that was, I feel like I am back to square one". Some of you (if not most) would find formal definitions to be a bit confusing and troubling so I will try to simplify it for you.
 
 ### So what is it!
 
@@ -30,11 +36,9 @@ So how come that's the case?
 
 Well, as we previously said, programming is all about instructing machines, right? So all machines do is perform the tasks precisely and exactly as they were handed out to do; which means, if the programmer doesn't express the instructions well the computer then won't understand and thus, the task will not be computed/performed.
 
-
 ### So how can I learn programming?
 
 I will share with you in the upcoming days my journey with programming and how I learnt it (and still am!) as for now, I hope you didn't forget about your best friend! You will be asking it day in and day out whatever crosses your mind, really, whatever! It's there to provide you with everything you ask for, so ask a lot!
-
 
 ### The End
 

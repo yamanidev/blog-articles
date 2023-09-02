@@ -1,3 +1,10 @@
+---
+external: false
+title: 'My First Experience in Google Hash Code'
+description: ''
+date: 2021-03-12
+---
+
 We all know how important practicing is for learning crafts and honing skills. You become a better chef by cooking more often, a great painter by drawing and a skilled programmer by writing more code.
 
 What software engineers do -put simply- is solving real world problems using technology. To be a better engineer is to get better at solving problems.
@@ -76,8 +83,3 @@ Follow my blog and my [Twitter](https://twitter.com/yamanidev) for more!
 Have a nice one!
 
 Photo by <a href="https://unsplash.com/@mitchel3uo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mitchell Luo</a> on <a href="/s/photos/google?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-
-
-
-
