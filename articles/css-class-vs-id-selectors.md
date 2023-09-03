@@ -2,6 +2,7 @@
 external: false
 title: 'CSS Class vs ID Selectors — Understanding the Difference!'
 description: ''
+canonicalUrl: "https://mohamedyamani.com/blog/css-class-vs-id-selectors"
 date: 2021-03-21
 ---
 

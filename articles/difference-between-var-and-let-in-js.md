@@ -2,6 +2,7 @@
 external: false
 title: 'Difference Between var and let in JavaScript'
 description: ''
+canonicalUrl: "https://mohamedyamani.com/blog/difference-between-var-and-let-in-js"
 date: 2021-03-19
 ---
 

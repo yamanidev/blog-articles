@@ -2,6 +2,7 @@
 external: false
 title: 'Helping Older Browsers Understand HTML5'
 description: ''
+canonicalUrl: "https://mohamedyamani.com/blog/helping-older-browsers-understand-html5"
 date: 2021-08-06
 ---
 

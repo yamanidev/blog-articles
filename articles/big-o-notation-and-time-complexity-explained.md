@@ -2,6 +2,7 @@
 external: false
 title: 'Big-O Notation and Time Complexity Explained!'
 description: ''
+canonicalUrl: "https://mohamedyamani.com/blog/big-o-notation-and-time-complexity-explained"
 date: 2021-02-22
 ---
 

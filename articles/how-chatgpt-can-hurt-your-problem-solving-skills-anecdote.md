@@ -2,6 +2,7 @@
 external: false
 title: "How ChatGPT Can Hurt Your Problem Solving Skills: An Anecdote"
 description: "An anecdote on how my reliance on ChatGPT has lead my problem solving skills to get worse, and how I am getting over it by changing the way I use the tool."
+canonicalUrl: "https://mohamedyamani.com/blog/how-chatgpt-can-hurt-your-problem-solving-skills-anecdote"
 date: 2023-09-03
 ---
 

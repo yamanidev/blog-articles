@@ -2,6 +2,7 @@
 external: false
 title: 'Basic Introduction to the Internet and the Web'
 description: ''
+canonicalUrl: "https://mohamedyamani.com/blog/basic-introduction-to-the-internet-and-the-web"
 date: 2021-07-24
 ---
 

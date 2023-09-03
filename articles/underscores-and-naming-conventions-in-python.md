@@ -2,6 +2,7 @@
 external: false
 title: 'Underscores and Naming Conventions in Python'
 description: ''
+canonicalUrl: "https://mohamedyamani.com/blog/underscores-and-naming-conventions-in-python"
 date: 2021-03-21
 ---
 

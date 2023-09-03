@@ -2,6 +2,7 @@
 external: false
 title: 'My First Experience in Google Hash Code'
 description: ''
+canonicalUrl: "https://mohamedyamani.com/blog/my-first-experience-in-google-hashcode"
 date: 2021-03-12
 ---
 

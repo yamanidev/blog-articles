@@ -2,6 +2,7 @@
 external: false
 title: 'Primitive Types in Java'
 description: ''
+canonicalUrl: "https://mohamedyamani.com/blog/primitive-types-in-java"
 date: 2021-05-05
 ---
 
