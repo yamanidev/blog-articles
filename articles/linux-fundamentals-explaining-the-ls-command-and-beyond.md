@@ -2,7 +2,7 @@
 external: false
 title: 'Linux Fundamentals: Explaining the ls command and beyond'
 description: 'Explaining the different outputs of the ls commands, how to use them to understand concepts like file permissions, as well as how to use the built in terminal manual.'
-canonicalUrl: ""
+canonicalUrl: "https://mohamedyamani.com/blog/linux-fundamentals-explaining-the-ls-command-and-beyond"
 date: 2023-09-10
 ---
 
