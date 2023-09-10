@@ -1,7 +1,7 @@
 ---
 external: false
 title: 'Difference Between var and let in JavaScript'
-description: 'In this article I explain two binding keywords in JavaScript that are used to declare variables: var and let, what's the difference between them and which one to use.'
+description: 'In this article I explain two binding keywords in JavaScript that are used to declare variables: var and let, what is the difference between them and which one to use.'
 canonicalUrl: "https://mohamedyamani.com/blog/difference-between-var-and-let-in-js"
 date: 2021-03-19
 ---
