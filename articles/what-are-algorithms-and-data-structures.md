@@ -1,7 +1,7 @@
 ---
 external: false
 title: 'What are Algorithms and Data Structures?'
-description: ''
+description: 'I briefly explain in this article what algorithms and data structures are with some real world examples.'
 canonicalUrl: "https://mohamedyamani.com/blog/what-are-algorithms-and-data-structures"
 date: 2021-02-15
 ---

@@ -1,7 +1,7 @@
 ---
 external: false
 title: 'Big-O Notation and Time Complexity Explained!'
-description: ''
+description: 'I explain in this article what is the Big-O Notation, why it is important for engineers and the estimation of some common logic.'
 canonicalUrl: "https://mohamedyamani.com/blog/big-o-notation-and-time-complexity-explained"
 date: 2021-02-22
 ---

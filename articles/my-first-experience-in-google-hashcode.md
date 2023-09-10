@@ -1,7 +1,7 @@
 ---
 external: false
 title: 'My First Experience in Google Hash Code'
-description: ''
+description: 'I share in this article the story of my first experience in the Google Hash Code competition and how I got obliterated.'
 canonicalUrl: "https://mohamedyamani.com/blog/my-first-experience-in-google-hashcode"
 date: 2021-03-12
 ---

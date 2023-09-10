@@ -1,7 +1,7 @@
 ---
 external: false
 title: 'What is HTML? 🤔'
-description: ''
+description: 'I briefly introduce in this article what HTML is and the role it plays in web pages with some code snippet examples.'
 canonicalUrl: "https://mohamedyamani.com/blog/what-is-html/"
 date: 2021-03-14
 ---
