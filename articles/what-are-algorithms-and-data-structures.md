@@ -108,8 +108,6 @@ With experience, you will get familiarized with that process and like anything e
 
 That was it ladies and gentlemen, I hope you enjoyed the article!
 
-Any feedback or constructive critique is warmly welcomed and appreciated, so please tell me what you think in the comments so I can better the quality. Thanks for reading ❤️!
-
 Follow me on [Twitter](https://twitter.com/yamanidev) for more!
 
 <span>Photo by <a href="https://unsplash.com/@kaleidico?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Kaleidico</a> on <a href="https://unsplash.com/s/photos/data-structures?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>

@@ -158,7 +158,6 @@ To state other magic methods, we have: `__add__` , `__str__` , `__and__`...
 ## Thank you for reading!
 
 That was it! I hope you learned something new and enjoyed reading!
-Any feedback or constructive critique is warmly welcomed and appreciated, so please tell me what you think in the comments so I can better the quality. Thanks for reading ❤️
 
 Follow me on [Twitter](https://twitter.com/yamanidev) for more!
 

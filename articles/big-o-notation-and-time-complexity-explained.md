@@ -144,8 +144,6 @@ These are some complexities you will most likely frequent:
 
 That was it ladies and gentlemen, I hope you enjoyed the article!
 
-Any feedback or constructive critique is warmly welcomed and appreciated, so please tell me what you think in the comments so I can better the quality. Thanks for reading ❤️!
-
 Follow my blog and my [Twitter](https://twitter.com/yamanidev) for more!
 
 Have a nice one!

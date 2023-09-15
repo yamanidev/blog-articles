@@ -134,8 +134,6 @@ let boo = 'never mind'; // Uncaught SyntaxError
 
 That was the main difference between **var** and **let**, I hope you learned a thing or two!
 
-Any feedback or constructive critique is warmly welcomed and appreciated, so please tell me what you think in the comments so I can better the quality. Thanks for reading ❤️!
-
 Follow my blog and my [Twitter](https://twitter.com/yamanidev) for more!
 
 Have a nice one!

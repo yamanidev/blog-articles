@@ -43,7 +43,7 @@ I will share with you in the upcoming days my journey with programming and how I
 
 ### The End
 
-I hope you liked my introductory post. More articles coming up next so make sure you follow the blog! Any feedback or constructive critique is warmly welcomed and appreciated, so please tell me what you think in the comments so I can better the quality. Thanks for reading ❤️!
+I hope you liked my introductory post. More articles coming up next so make sure you follow the blog!
 
 Follow me on [Twitter](https://twitter.com/yamanidev) for more!
 

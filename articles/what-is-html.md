@@ -90,8 +90,6 @@ In order to get our page's style out of the 90's (aka more appealing and modern)
 
 That was a brief introduction to what HTML is, I hope you enjoyed the article!
 
-Any feedback or constructive critique is warmly welcomed and appreciated, so please tell me what you think in the comments so I can better the quality. Thanks for reading ❤️!
-
 Follow my blog and my [Twitter](https://twitter.com/yamanidev) for more!
 
 Have a nice one!

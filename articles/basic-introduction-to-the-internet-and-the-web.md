@@ -124,8 +124,6 @@ The infrastructure underneath the internet is much more complex than that and is
 
 That was it. I hope you learned something new and enjoyed reading!
 
-Any feedback or constructive critique is warmly welcomed and appreciated, so please tell me what you think in the comments so I can better the quality. Thanks for reading ❤️
-
 Follow my blog and my [Twitter](https://twitter.com/yamanidev) for more!
 
 Have a nice one.
