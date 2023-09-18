@@ -18,7 +18,7 @@ A multi-user system is not just a system that allows having multiple users, but 
 
 You might ask yourself, how can a computer be used at the same time by different people? Well, a computer does not require you to sit in front of it to use it. You can remotely access it for example using the program _Remote Desktop Connection_ if you're using Windows. Or using SSH to access the system via the command line. That way, multiple users can work on the same machine, using the same resources.
 
-Try to picture that scenario of multiple user accessing a computer, it's a mess. What's stopping user B from playing around with user A's work? As a person that likes to troll, I would say nothing. The options are endless, and it stops being fun when you're user A.
+Try to picture that scenario of multiple user accessing a computer, it's a mess. What's stopping user B from playing around with user A's work? As a person that likes to troll, I would say, nothing. The options are endless, and it stops being fun when you're user A.
 
 It seems that this trolling concern existed in the 70's too. Unix was built with the design of a multi-user architecture; it introduced file ownership and permissions. And Linux naturally inherited this design as well.
 
