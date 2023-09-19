@@ -112,7 +112,7 @@ The first digit representing your permission. The second and third digits repres
 
 You change your mind, you open your heart and want to share the file with others, but without having to worry about trolls (like myself). Instead of giving no permission to the group owner and others', you give them read access instead.
 
-`chomd 644 someFile.txt`
+`chmod 644 someFile.txt`
 
 You get the idea.
 
