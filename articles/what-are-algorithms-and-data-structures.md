@@ -110,6 +110,4 @@ That was it ladies and gentlemen, I hope you enjoyed the article!
 
 Follow me on [Twitter](https://twitter.com/yamanidev) for more!
 
-<span>Photo by <a href="https://unsplash.com/@kaleidico?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Kaleidico</a> on <a href="https://unsplash.com/s/photos/data-structures?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
 Have a nice one!

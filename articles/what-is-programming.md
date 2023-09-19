@@ -47,4 +47,3 @@ I hope you liked my introductory post. More articles coming up next so make sure
 
 Follow me on [Twitter](https://twitter.com/yamanidev) for more!
 
-<span>Photo by <a href="https://unsplash.com/@florianolv?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Florian Olivo</a> on <a href="https://unsplash.com/s/photos/programming?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>

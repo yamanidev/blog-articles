@@ -114,5 +114,3 @@ I hope you learned something new and enjoyed reading!
 Follow my blog and my [Twitter](https://twitter.com/yamanidev) for more!
 
 Have a nice one.
-
-Photo by <a href="https://unsplash.com/@jacksonsophat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jackson So</a> on <a href="https://unsplash.com/s/photos/html?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
