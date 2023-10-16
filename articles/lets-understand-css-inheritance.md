@@ -2,7 +2,7 @@
 external: false
 title: "Let's Understand CSS: Inheritance"
 description: 'Most CSS bugs come from conflicting styles. Understanding how CSS deals with them can help you avoid them. In this article, I explain one of the fundamental concepts for resolving them: inheritance.'
-canonicalUrl: 'https://mohamedyamani.com/blog/'
+canonicalUrl: 'https://mohamedyamani.com/blog/lets-understand-css-inheritance'
 date: 2023-10-16
 ---
 
@@ -21,7 +21,7 @@ Another equally important concept is the Box Model which I wrote about [2 years 
 I'll be writing more often on fundamental CSS concepts that must be understood for smooth sailing with CSS, otherwise you'll relate to the memes.
 
 Whatever you do though, don't be this guy.
-![aaa](https://devs.lol/uploads/2021/11/meme-dev-humor-hate-to-write-css-but-still-not-gonna-learn-54.jpg)
+![developer meme: hates to write CSS but still won't learn it](/images/meme-dev-humor-hate-to-write-css-but-still-not-gonna-learn.jpg)
 
 If you're someone that doesn't struggle with reading MDN docs, I recommend you skip this article to read the MDN one and wrap up inheritance in a few minutes: [Inheritance MDN link](https://developer.mozilla.org/en-US/docs/Web/CSS/Inheritance).
 
