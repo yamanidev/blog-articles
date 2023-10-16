@@ -21,9 +21,10 @@ Another equally important concept is the Box Model which I wrote about [2 years 
 I'll be writing more often on fundamental CSS concepts that must be understood for smooth sailing with CSS, otherwise you'll relate to the memes.
 
 Whatever you do though, don't be this guy.
+
 ![developer meme: hates to write CSS but still won't learn it](/images/meme-dev-humor-hate-to-write-css-but-still-not-gonna-learn.jpg)
 
-If you're someone that doesn't struggle with reading MDN docs, I recommend you skip this article to read the MDN one and wrap up inheritance in a few minutes: [Inheritance MDN link](https://developer.mozilla.org/en-US/docs/Web/CSS/Inheritance).
+If you're someone who doesn't struggle with reading MDN docs, I recommend you skip this article to read the MDN one and wrap up inheritance in a few minutes: [Inheritance MDN link](https://developer.mozilla.org/en-US/docs/Web/CSS/Inheritance).
 
 If you wish to stick around, buckle up.
 
@@ -33,11 +34,11 @@ One of the best ways to learn about tech stuff is by thinking about how to build
 
 Even if you're not able to answer these questions -understandably so-, they remain interesting questions to ask and find answers to.
 
-Shifting you thinking to how to build a tool will give you a chance to understand why certain things of behave the way they do, why they were built the way they were etc.
+Shifting your thinking to how to build a tool will give you a chance to understand why certain things behave the way they do, why they were built the way they were etc.
 
-Keeping in mind the properties you know and putting all your CSS knowledge aside, how do you think styling would be like?
+Keeping in mind the properties you know and putting all your CSS knowledge aside, what do you think styling would be like?
 
-How's the architecture of styling web pages like?
+What's the architecture of styling web pages like?
 
 The way I see it, it will be very explicit and verbose.
 
@@ -75,7 +76,7 @@ it has to be something like this:
 }
 ```
 
-It would be a nightmare write and worse to maintain. Not so cool indeed.
+It would be a nightmare to write and worse to maintain. Not so cool indeed.
 
 This is why inheritance was implemented. To make styling web pages compact and clean.
 
@@ -103,16 +104,16 @@ Instead of having to style each HTML element separately, you can style a parent 
 
 Quick reminder:
 
-- Regardless of the nesting level of, if element A is in any shape contained inside of element B, then element A is a child of element B.
+- Regardless of the nesting level, if element A is in any shape contained inside of element B, then element A is a child of element B.
 - The level of nesting is what determines if a child is a direct or an indirect one. If it's only nested one level deep, it's a direct child, otherwise it's an indirect one.
 - `<h1>` is a direct child of `<header>` and an indirect child to `<main>`.
 - `<span>` is a direct child of `<p>` and an indirect child to `<main>`.
 
-All of the children of `<body>` will _inherit_ the style declarations of the class `cool-body`. i.e, everything will look tedious.
+All of the children of `<body>` will _inherit_ the style declarations of the class `cool-body`. i.e., everything will look tedious.
 
 ## How it works
 
-So what happens when different parents have conflicting style declarations? The conflict being having different values for the same CSS property.
+So what happens when different parents have conflicting style declarations? The conflict is having different values for the same CSS property.
 
 One of them must be picked of course.
 
