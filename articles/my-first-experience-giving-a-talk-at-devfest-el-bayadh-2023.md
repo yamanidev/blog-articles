@@ -6,7 +6,7 @@ canonicalUrl: 'https://mohamedyamani.com/blog/my-first-experience-giving-a-talk-
 date: 2024-01-19
 ---
 
-Disclaimer: I take you through my thought process as I was preparing for my first talk. This is more personal, so you might not get any value from reading this. It's something to document about my joureny, a piece I know I'd love to read in the future.
+Disclaimer: I take you through my thought process as I was preparing for my first talk. This is more personal, so you might not get any value from reading this. It's something to document about my journey, a piece I know I'd love to read in the future.
 
 ## Context
 
@@ -40,7 +40,7 @@ I got the idea to talk about technical writing, which was suggested to me too by
 
 Then I recognized that I deal with this problem occasionally when I want to publish an article too, seeing myself as not good enough to share my thoughts/experiences or to try to explain a concept.
 
-The way I resolve this is by mainly reminding myself that no matter how bad I think I am or how much I suck, there's surely someone that's worse out there, someone who's just starting their joureny for example. That's my target audience. There's a high chance they'd find value in what I say... or so I'd like to think.
+The way I resolve this is by mainly reminding myself that no matter how bad I think I am or how much I suck, there's surely someone that's worse out there, someone who's just starting their journey for example. That's my target audience. There's a high chance they'd find value in what I say... or so I'd like to think.
 
 So I reverted back to the idea of technical writing, it seems to have a low barrier of entry, and includes a wide range of disciplines, which suits the audience.
 
@@ -52,7 +52,7 @@ I decided to give the talk in Algerian dialect. I wanted it to be more accessibl
 
 I never scripted my presentations before, I hated preparing for them too. I like to improvise, it has always served me well.
 
-But this time, I was not sure. It seemed to me that it would be injust if I spoke nonsense to an audience that actually wanted to attend, especially since the talks are 20min long.
+But this time, I was not sure. It seemed to me that it would be unjust if I spoke nonsense to an audience that actually wanted to attend, especially since the talks are 20min long.
 
 So I started scribbling here and there.
 
@@ -70,7 +70,7 @@ It went smoothly. I communicated the ideas I wanted to, and 18 minutes later, I 
 
 ## Review
 
-I couldn't tell how the audience took it, but there was one guy who seemed interested that approached me during the coffee break with questions which lead to a cool discussion.
+I couldn't tell how the audience took it, but there was one guy who seemed interested that approached me during the coffee break with questions, which lead to a cool discussion.
 
 To me, it takes only one person to benefit from what I share to consider myself successful at it. I'd like to think I was this time.
 
