@@ -2,7 +2,7 @@
 external: false
 title: "Let's Understand CSS: Inheritance"
 description: 'Most CSS bugs come from conflicting styles. Understanding how CSS deals with them can help you avoid them. In this article, I explain one of the fundamental concepts for resolving them: inheritance.'
-canonicalUrl: 'https://mohamedyamani.com/blog/lets-understand-css-inheritance'
+canonicalUrl: 'https://mohamedyamani.com/blog/lets-understand-css-inheritance/'
 date: 2023-10-16
 ---
 

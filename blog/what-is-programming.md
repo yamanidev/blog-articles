@@ -2,7 +2,7 @@
 external: false
 title: 'What is Programming? 👩‍💻'
 description: 'My first blog article where I introduce what programming is in practical terms as well as some valuable tips.'
-canonicalUrl: "https://mohamedyamani.com/blog/what-is-programming"
+canonicalUrl: "https://mohamedyamani.com/blog/what-is-programming/"
 date: 2021-01-29
 ---
 

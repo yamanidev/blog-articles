@@ -2,7 +2,7 @@
 external: false
 title: 'What is CSS? 🤔'
 description: 'I briefly explain in this article what CSS is showcasing its presentational part for web pages with a code snippet.'
-canonicalUrl: "https://mohamedyamani.com/blog/what-is-css"
+canonicalUrl: "https://mohamedyamani.com/blog/what-is-css/"
 date: 2021-03-17
 ---
 

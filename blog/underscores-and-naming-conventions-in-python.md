@@ -2,7 +2,7 @@
 external: false
 title: 'Underscores and Naming Conventions in Python'
 description: 'I explain in this blog post what PEP8 is and the general style guidelines it offers for Python for the different use-cases.'
-canonicalUrl: "https://mohamedyamani.com/blog/underscores-and-naming-conventions-in-python"
+canonicalUrl: "https://mohamedyamani.com/blog/underscores-and-naming-conventions-in-python/"
 date: 2021-03-21
 ---
 

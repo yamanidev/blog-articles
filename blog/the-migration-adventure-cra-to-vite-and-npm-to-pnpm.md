@@ -2,7 +2,7 @@
 external: false
 title: 'The Migration Adventure: CRA to Vite and npm to pnpm'
 description: 'A little snippet about my journey of migrating a project from create-react-app to Vite and from npm to pnpm and the challenges of making these changes at once.'
-canonicalUrl: "https://mohamedyamani.com/blog/the-migration-adventure-cra-to-vite-and-npm-to-pnpm"
+canonicalUrl: "https://mohamedyamani.com/blog/the-migration-adventure-cra-to-vite-and-npm-to-pnpm/"
 date: 2023-07-05
 ---
 

@@ -2,7 +2,7 @@
 external: false
 title: 'CSS Class vs ID Selectors — Understanding the Difference!'
 description: 'In this article I break down two CSS selectors, classes and ids, how to use them to select HTML elements as well the difference between them.'
-canonicalUrl: "https://mohamedyamani.com/blog/css-class-vs-id-selectors"
+canonicalUrl: "https://mohamedyamani.com/blog/css-class-vs-id-selectors/"
 date: 2021-03-21
 ---
 

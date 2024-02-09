@@ -2,7 +2,7 @@
 external: false
 title: 'Linux Fundamentals: File Permissions and Ownership'
 description: 'Explaining Linux fundamental concepts: file permissions, ownership and the chmod command to change the permissions of a file in the two different syntaxes, octal and symbolic.'
-canonicalUrl: 'https://mohamedyamani.com/blog/linux-fundamentals-file-permissions-and-ownership'
+canonicalUrl: 'https://mohamedyamani.com/blog/linux-fundamentals-file-permissions-and-ownership/'
 date: 2023-09-19
 ---
 
