@@ -6,7 +6,7 @@ canonicalUrl: 'https://mohamedyamani.com/blog/linux-fundamentals-file-permission
 date: 2023-09-19
 ---
 
-In my last article [Explaining the ls command and beyond](https://mohamedyamani.com/blog/linux-fundamentals-explaining-the-ls-command-and-beyond), I broke down the `ls` command, how to interpret the output, and introduced some command line concepts. It was quite the jargon, and to some of you, it was unfamiliar.
+In my last article [Explaining the ls command and beyond](https://mohamedyamani.com/blog/linux-fundamentals-explaining-the-ls-command-and-beyond/), I broke down the `ls` command, how to interpret the output, and introduced some command line concepts. It was quite the jargon, and to some of you, it was unfamiliar.
 
 As such, I'll dedicate some articles (like this one) to explain that very jargon, or at least make it a bit less unfamiliar to you.
 
