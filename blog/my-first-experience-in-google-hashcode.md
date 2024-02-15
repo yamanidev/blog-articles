@@ -1,9 +1,8 @@
 ---
-external: false
 title: 'My First Experience in Google Hash Code'
 description: 'I share in this article the story of my first experience in the Google Hash Code competition and how I got obliterated.'
 canonicalUrl: "https://mohamedyamani.com/blog/my-first-experience-in-google-hashcode/"
-date: 2021-03-12
+pubDate: 2021-03-12
 ---
 
 We all know how important practicing is for learning crafts and honing skills. You become a better chef by cooking more often, a great painter by drawing and a skilled programmer by writing more code.

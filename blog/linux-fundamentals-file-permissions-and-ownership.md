@@ -1,9 +1,8 @@
 ---
-external: false
 title: 'Linux Fundamentals: File Permissions and Ownership'
 description: 'Explaining Linux fundamental concepts: file permissions, ownership and the chmod command to change the permissions of a file in the two different syntaxes, octal and symbolic.'
 canonicalUrl: 'https://mohamedyamani.com/blog/linux-fundamentals-file-permissions-and-ownership/'
-date: 2023-09-19
+pubDate: 2023-09-19
 ---
 
 In my last article [Explaining the ls command and beyond](https://mohamedyamani.com/blog/linux-fundamentals-explaining-the-ls-command-and-beyond/), I broke down the `ls` command, how to interpret the output, and introduced some command line concepts. It was quite the jargon, and to some of you, it was unfamiliar.

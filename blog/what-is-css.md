@@ -1,9 +1,8 @@
 ---
-external: false
 title: 'What is CSS? 🤔'
 description: 'I briefly explain in this article what CSS is showcasing its presentational part for web pages with a code snippet.'
 canonicalUrl: "https://mohamedyamani.com/blog/what-is-css/"
-date: 2021-03-17
+pubDate: 2021-03-17
 ---
 
 It can easily be daunting for newcomers to web development when first starting out. We often get overwhelmed with all the different technologies and terminologies used in the web, trying to make sense of it all can be frustrating. In my **What Is** series, I try to explain concepts to beginners in the simplest way I can in a form of brief and digestable articles, today we will talk about CSS and its place in the large scheme of web design!

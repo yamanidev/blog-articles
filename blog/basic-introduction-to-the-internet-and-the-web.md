@@ -1,9 +1,8 @@
 ---
-external: false
 title: 'Basic Introduction to the Internet and the Web'
 description: 'I explain in this article what the internet is, how it works and what happens under the hood when you open a page using your web browser, as well as concepts like IP addresses, DNS, servers and HTTP.'
 canonicalUrl: "https://mohamedyamani.com/blog/basic-introduction-to-the-internet-and-the-web/"
-date: 2021-07-24
+pubDate: 2021-07-24
 ---
 
 ## Table of content

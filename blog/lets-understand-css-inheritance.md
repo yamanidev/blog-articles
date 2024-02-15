@@ -1,9 +1,8 @@
 ---
-external: false
 title: "Let's Understand CSS: Inheritance"
 description: 'Most CSS bugs come from conflicting styles. Understanding how CSS deals with them can help you avoid them. In this article, I explain one of the fundamental concepts for resolving them: inheritance.'
 canonicalUrl: 'https://mohamedyamani.com/blog/lets-understand-css-inheritance/'
-date: 2023-10-16
+pubDate: 2023-10-16
 ---
 
 Most CSS bugs come from conflicting styles which most people solve by slapping the notorious `!important` at them, or by resorting to inline styles instead.

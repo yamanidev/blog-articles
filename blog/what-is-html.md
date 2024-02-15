@@ -1,9 +1,8 @@
 ---
-external: false
 title: 'What is HTML? 🤔'
 description: 'I briefly introduce in this article what HTML is and the role it plays in web pages with some code snippet examples.'
 canonicalUrl: "https://mohamedyamani.com/blog/what-is-html/"
-date: 2021-03-14
+pubDate: 2021-03-14
 ---
 
 If you're interested in becoming a web developer -and did some research- you must have encountered the term HTML on many occasions, in the context of the front-end part of web development along with CSS and Javascript. We'll be covering today what HTML is as well as some foundational concepts about it.

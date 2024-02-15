@@ -1,9 +1,8 @@
 ---
-external: false
 title: 'My First Experience Giving a Talk @Devfest El Bayadh 2023'
 description: 'I take you through my thought process as I was preparing for my first talk and sharing my experience. This is a personal piece, so you might not get any value from reading this.'
 canonicalUrl: 'https://mohamedyamani.com/blog/my-first-experience-giving-a-talk-at-devfest-el-bayadh-2023/'
-date: 2024-01-19
+pubDate: 2024-01-19
 ---
 
 Disclaimer: I take you through my thought process as I was preparing for my first talk. This is more personal, so you might not get any value from reading this. It's something to document about my journey, a piece I know I'd love to read in the future.

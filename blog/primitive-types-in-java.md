@@ -1,9 +1,8 @@
 ---
-external: false
 title: 'Primitive Types in Java'
 description: 'I explain in this article what are primitives in Java with a mental model of memory as well as the different primitive types Java offers.'
 canonicalUrl: "https://mohamedyamani.com/blog/primitive-types-in-java/"
-date: 2021-05-05
+pubDate: 2021-05-05
 ---
 
 ## Introduction
