@@ -231,7 +231,7 @@ An illustration of the deployment:
 
 To keep things simple, this time we'll clone our Next.js repository to `/srv` directory. To run a production build of Next.js application, we don't require all the content of the project, but we'll keep them nevertheless.
 
-After you build your project, run the `next start` script with whatever package manager you're using. You should be able to get back an HTML file when you `curl` [`localhost:3000`](http://localhost:3000) (or whatever port you configured). Once you've confirmed that your Next.js application runs successfully, stop it.
+After you build your project, run the `next start` script with whatever package manager you're using. You should be able to get back an HTML file when you `curl localhost:3000` (or whatever port you configured). Once you've confirmed that your Next.js application runs successfully, stop it.
 
 #### Running Node.js applications in production
 
