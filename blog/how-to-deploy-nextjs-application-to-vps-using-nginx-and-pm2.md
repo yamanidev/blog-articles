@@ -122,7 +122,7 @@ root /srv/<project name>;
 Change the `server_name` directive to use your domain name:
 
 ```nginx
-server_name domain.com;
+server_name example.com;
 ```
 
 Change the `try_files` directive to this, so that when a path is requested, an HTML file is returned with the same name if it exists.
@@ -160,7 +160,7 @@ If it doesn't:
 Let's test out the website using the domain name. Keep in mind that we're still using HTTP.
 
 ```bash
-curl http://domain.com
+curl http://example.com
 ```
 
 If the command above does not return the `index.html`, make sure that you configured your domain name's DNS properly to point to the VPS' IP address.
