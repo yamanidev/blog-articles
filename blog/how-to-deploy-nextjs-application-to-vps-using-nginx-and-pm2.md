@@ -6,6 +6,10 @@ pubDate: 2024-02-26
 heroImage: '/images/thumbnails/how-to-deploy-nextjs-application-to-vps-using-nginx-and-pm2.jpg'
 ---
 
+In this guide I explain how to deploy your Next.js application to a VPS as well as the different parts of the process. If you're only looking for the NGINX configuration files, you can find them in this [gist](https://gist.github.com/yamanidev/839d2ef90c2da03df892fdff50c4fb34).
+
+---
+
 If you find yourself in a situation (like I did) where your only deployment option for a Next.js application is to self-host on a VPS, this article is for you.
 
 This article does not promote self-hosting your Next.js applications, although I should write more on that in a separate article. It's a great learning experience to deal with servers directly (without the serverless abstraction).
