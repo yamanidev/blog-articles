@@ -63,7 +63,7 @@ According to the [FHS](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standa
 
 After you `cd` into your Next.js project, we'll copy the generated `out/` directory into `/srv` with the following command:
 
-```markdown
+```bash
 cp -r out /srv/<project name>
 ```
 
