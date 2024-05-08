@@ -4,6 +4,7 @@ description: "In this guide we'll go through deploying and self-hosting a Next.j
 canonicalUrl: 'https://mohamedyamani.com/blog/how-to-deploy-nextjs-application-to-vps-using-nginx-and-pm2/'
 pubDate: 2024-02-26
 image: '/images/thumbnails/how-to-deploy-nextjs-application-to-vps-using-nginx-and-pm2.jpg'
+imageAlt: 'light decorations in dark area'
 ---
 
 In this guide I explain how to deploy your Next.js application to a VPS as well as the different parts of the process. If you're only looking for the NGINX configuration files, you can find them in this [gist](https://gist.github.com/yamanidev/839d2ef90c2da03df892fdff50c4fb34).
