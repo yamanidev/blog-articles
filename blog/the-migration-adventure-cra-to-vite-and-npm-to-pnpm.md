@@ -24,3 +24,5 @@ I downloaded the missing packages like a good boy and life moved on 🙂.
 ## References
 
 I followed [this article](https://www.robinwieruch.de/vite-create-react-app/) to switch from CRA to Vite, it was very helpful.
+
+Thumbnail picture by [FlyD](https://unsplash.com/@flyd2069?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/purple-and-white-abstract-painting-3TtVnxJHfhw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
