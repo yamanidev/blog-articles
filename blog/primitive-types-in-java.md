@@ -4,7 +4,7 @@ description: 'I explain in this article what are primitives in Java with a menta
 canonicalUrl: "https://mohamedyamani.com/blog/primitive-types-in-java/"
 pubDate: 2021-05-05
 image: "/images/thumbnails/primitive-types-in-java.jpg"
-imageAlt: "monitor showing computer application"
+imageAlt: "laptop monitor showing java class file on IDE"
 ---
 
 ## Introduction
