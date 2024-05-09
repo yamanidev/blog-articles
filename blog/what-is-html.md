@@ -94,3 +94,7 @@ That was a brief introduction to what HTML is, I hope you enjoyed the article!
 Follow my blog and my [Twitter](https://twitter.com/yamanidev) for more!
 
 Have a nice one!
+
+---
+ 
+Thumbnail picture by [Ana GG](https://unsplash.com/@garnicanetworks?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/person-in-white-and-black-stripe-hoodie-standing-on-gray-rocky-shore-during-daytime-qUvfEBl5baI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)

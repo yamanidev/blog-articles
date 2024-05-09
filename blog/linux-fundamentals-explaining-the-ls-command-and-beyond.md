@@ -88,3 +88,7 @@ You realize by now how much there's to know. You've asked yourself plenty of que
 A lot of what has been briefly explained here could be developed into separate articles. I am planning on doing that someday in the near future :)
 
 Hope you learned something!
+
+---
+ 
+Thumbnail picture by [Diane Picchiottino](https://unsplash.com/@diane_soko?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/blue-and-white-abstract-painting-Avy65GwRDUU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)

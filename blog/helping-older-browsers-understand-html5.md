@@ -115,3 +115,7 @@ I hope you learned something new and enjoyed reading!
 Follow my blog and my [Twitter](https://twitter.com/yamanidev) for more!
 
 Have a nice one.
+
+---
+ 
+Thumbnail picture by [Hans Eiskonen](https://unsplash.com/@eiskonen?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/black-sedan-D9TK2X0Nj-U?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)

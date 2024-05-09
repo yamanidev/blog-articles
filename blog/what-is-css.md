@@ -138,3 +138,7 @@ That was a brief introduction to CSS, I hope you enjoyed the article!
 Follow my blog and my [Twitter](https://twitter.com/yamanidev) for more!
 
 Have a nice one!
+
+---
+ 
+Thumbnail picture by [ActionVance](https://unsplash.com/@actionvance?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/brown-blue-and-yellow-abstract-painting-vjUokUWbFOs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)

@@ -159,3 +159,7 @@ Etc.
 I hope you learned something :)
 
 Keep the trolls away.
+
+---
+  
+Thumbnail picture by [Jr Kopa](https://unsplash.com/@jrkorpa?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-window-with-rain-drops-on-the-glass-E2i7Hftb_rI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)

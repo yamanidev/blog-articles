@@ -112,3 +112,7 @@ That was it ladies and gentlemen, I hope you enjoyed the article!
 Follow me on [Twitter](https://twitter.com/yamanidev) for more!
 
 Have a nice one!
+
+---
+ 
+Thumbnail picture by [Roberto Nickson](https://unsplash.com/@rpnickson?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/women-sitting-on-rock-near-body-of-water-vRAYwESFc-U?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)

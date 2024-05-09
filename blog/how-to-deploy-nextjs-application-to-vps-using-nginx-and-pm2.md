@@ -334,4 +334,6 @@ I hope you benefited from it.
 
 If you'd like to stay updated with my blog, reach out, or see what I am up to, you can find me on [Twitter](https://twitter.com/yamanidev).
 
+---
+
 Thumbnail picture by [Aron Visuals](https://unsplash.com/@aronvisuals?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/light-decorations-in-dark-area-bZZp1PmHI0E?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)

@@ -137,3 +137,7 @@ These were the differences between Classes and IDs, I hope you enjoyed reading t
 Follow my blog and my [Twitter](https://twitter.com/yamanidev) for more.
 
 Have a nice one!
+
+---
+
+Thumbnail picture by [Fotis Fotopoulos](https://unsplash.com/@ffstop?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/black-remote-control-on-red-table-6sAl6aQ4OWI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)

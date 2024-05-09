@@ -90,3 +90,7 @@ And lastly,
 **don't forget to touch some grass.**
 
 Take care!
+
+---
+
+Thumbnail picture taken by [Karim](https://twitter.com/karimkos).

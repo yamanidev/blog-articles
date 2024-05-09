@@ -44,3 +44,7 @@ I personally found the middle ground is to limit my prompts to a set of question
 The key takeaway I would say from this anecdote is, to pay attention to how we're using our everyday tools, how much we're relying on them, whether that's a good or a bad thing. Because tools affect us, and as ironic as it sounds, we could very well end up being enslaved by our creation.
 
 *Note: Funnily enough, I prompted for a title and a description for this post (they suck, I am going with my own). Guess I have some more work to do...*
+
+---
+ 
+Thumbnail picture by [Jr Korpa](https://unsplash.com/@jrkorpa?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-persons-shadow-with-a-yellow-string-in-the-air-u3yyYID6eP4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)

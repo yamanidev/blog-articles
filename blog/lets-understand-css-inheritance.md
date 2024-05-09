@@ -155,3 +155,7 @@ Most of the inherited properties are typography related, with some other ones yo
 Hope you learned something!
 
 Don't relate to CSS memes.
+
+---
+ 
+Thumbnail picture by [Jr Korpa](https://unsplash.com/@jrkorpa?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-red-and-blue-object-oOqNQCIlt94?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)

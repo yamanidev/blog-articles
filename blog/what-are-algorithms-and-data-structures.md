@@ -112,3 +112,7 @@ That was it ladies and gentlemen, I hope you enjoyed the article!
 Follow me on [Twitter](https://twitter.com/yamanidev) for more!
 
 Have a nice one!
+
+---
+ 
+Thumbnail picture by [Jukan Tateisi](https://unsplash.com/@tateisimikito?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/toddlers-standing-in-front-of-beige-concrete-stair-bJhT_8nbUA0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)

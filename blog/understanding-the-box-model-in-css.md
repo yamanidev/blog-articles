@@ -209,3 +209,7 @@ That was it. I hope you learned something new and enjoyed reading!
 Follow my blog and my [Twitter](https://twitter.com/yamanidev) for more!
 
 Have a nice one.
+
+---
+ 
+Thumbnail picture by [Kelli McClintock](https://unsplash.com/@kelli_mcclintock?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/white-box-on-white-table-GopRYASfsOc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)

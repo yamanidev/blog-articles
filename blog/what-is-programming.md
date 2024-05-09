@@ -48,3 +48,6 @@ I hope you liked my introductory post. More articles coming up next so make sure
 
 Follow me on [Twitter](https://twitter.com/yamanidev) for more!
 
+---
+ 
+Thumbnail picture by [Pakata Goh](https://unsplash.com/@pakata?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/laptop-computer-beside-monitor-with-keyboard-and-mouse-EJMTKCZ00I0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
