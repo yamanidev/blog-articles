@@ -4,7 +4,7 @@ description: 'My first blog article where I introduce what programming is in pra
 canonicalUrl: "https://mohamedyamani.com/blog/what-is-programming/"
 pubDate: 2021-01-29
 image: "/images/thumbnails/what-is-programming.jpg"
-imageAlt: "laptop computer beside monitor with keyboard and mouse"
+imageAlt: "laptop next to monitor with code on both screens"
 ---
 
 Hello there everyone and welcome to my very first blog post 😃!
