@@ -4,7 +4,7 @@ description: 'I explain in this article what the internet is, how it works and w
 canonicalUrl: "https://mohamedyamani.com/blog/basic-introduction-to-the-internet-and-the-web/"
 pubDate: 2021-07-24
 image: "/images/thumbnails/basic-introduction-to-the-internet-and-the-web.jpg"
-imageAlt: "photo of outer space"
+imageAlt: "earth from outer space"
 ---
 
 ## Table of content
