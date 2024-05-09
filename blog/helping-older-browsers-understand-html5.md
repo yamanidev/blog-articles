@@ -3,6 +3,8 @@ title: 'Helping Older Browsers Understand HTML5'
 description: 'In this blog article I explain how older verions of web browsers interpret unknown HTML5 elements, how to help them with that, and the recommended approach to that.'
 canonicalUrl: "https://mohamedyamani.com/blog/helping-older-browsers-understand-html5/"
 pubDate: 2021-08-06
+image: "/images/thumbnails/helping-older-browsers-understand-html5.jpg"
+imageAlt: "abandoned old black sedan with broken windows"
 ---
 
 ## Table of content

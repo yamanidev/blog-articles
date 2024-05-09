@@ -3,6 +3,8 @@ title: 'Difference Between var and let in JavaScript'
 description: 'In this article I explain two binding keywords in JavaScript that are used to declare variables: var and let, what is the difference between them and which one to use.'
 canonicalUrl: "https://mohamedyamani.com/blog/difference-between-var-and-let-in-js/"
 pubDate: 2021-03-19
+image: "/images/thumbnails/difference-between-var-and-let-in-js.jpg"
+imageAlt: "javascript code on laptop screen"
 ---
 
 One of the features that ES6 (ECMAScript 2015) introduced was **let** and **const** which raised some confusion between **var** and **let**. If we could already declare variables with **var** why do we need **let**? What's the difference between them? Today we will discover that!

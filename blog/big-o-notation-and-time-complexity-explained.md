@@ -3,6 +3,8 @@ title: 'Big-O Notation and Time Complexity Explained!'
 description: 'I explain in this article what is the Big-O Notation, why it is important for engineers and the estimation of some common logic.'
 canonicalUrl: "https://mohamedyamani.com/blog/big-o-notation-and-time-complexity-explained/"
 pubDate: 2021-02-22
+image: "/images/thumbnails/big-o-notation-and-time-complexity-explained.jpg"
+imageAlt: "white and gray optical illusion"
 ---
 
 If you've been procrastinating learning Big-O Notation and Time Complexity for an eternity -like myself-, this post is for you.

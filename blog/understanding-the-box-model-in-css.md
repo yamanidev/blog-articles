@@ -3,6 +3,8 @@ title: 'Understanding the Box Model in CSS'
 description: 'I explain in this article on of the fundamental concepts in CSS, the box model. What are the different types of boxes as well as the box sizing behavior.'
 canonicalUrl: "https://mohamedyamani.com/blog/understanding-the-box-model-in-css/"
 pubDate: 2021-11-06
+image: "/images/thumbnails/understanding-the-box-model-in-css.jpg"
+imageAlt: "white box on white table"
 ---
 
 ## Table of content

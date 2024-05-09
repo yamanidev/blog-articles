@@ -3,6 +3,8 @@ title: 'Your Best Friend Before Google in Python! 👩‍💻'
 description: 'I share in this article the first source you should refer to before Google when it comes to Python, it is the built in manual.'
 canonicalUrl: "https://mohamedyamani.com/blog/your-best-friend-before-google-in-python/"
 pubDate: 2021-01-29
+image: "/images/thumbnails/your-best-friend-before-google-in-python.jpg"
+imageAlt: "women sitting on rock near body of water"
 ---
 
 Hello there and welcome!!

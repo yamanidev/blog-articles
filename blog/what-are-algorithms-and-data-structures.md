@@ -3,6 +3,8 @@ title: 'What are Algorithms and Data Structures?'
 description: 'I briefly explain in this article what algorithms and data structures are with some real world examples.'
 canonicalUrl: "https://mohamedyamani.com/blog/what-are-algorithms-and-data-structures/"
 pubDate: 2021-02-15
+image: "/images/thumbnails/what-are-algorithms-and-data-structures.jpg"
+imageAlt: "toddler's standing in front of beige concrete stair"
 ---
 
 Hello there and welcome!!

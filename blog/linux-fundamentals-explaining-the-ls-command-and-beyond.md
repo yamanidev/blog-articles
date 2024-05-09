@@ -3,6 +3,8 @@ title: 'Linux Fundamentals: Explaining the ls command and beyond'
 description: 'Explaining the different outputs of the ls commands, how to use them to understand concepts like file permissions, as well as how to use the built in terminal manual.'
 canonicalUrl: "https://mohamedyamani.com/blog/linux-fundamentals-explaining-the-ls-command-and-beyond/"
 pubDate: 2023-09-10
+image: "/images/thumbnails/linux-fundamentals-explaining-the-ls-command-and-beyond.jpg"
+imageAlt: "blue and white abstract painting"
 ---
 
 If you ever used a Linux system before, chances are you're familiar with the `ls` command, or at least you know of it. Through understanding the output of this command, you can learn some fundamental concepts in Linux (or operating systems in general) like user management and file permissions. It's kinda fun, I promise.
