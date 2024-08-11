@@ -1,118 +1,61 @@
 ---
-title: 'Your Best Friend Before Google in Python! 👩‍💻'
-description: 'I share in this article the first source you should refer to before Google when it comes to Python, it is the built in manual.'
+title: "Your Best Friend Before Google in Python! 👩‍💻"
+description: "I share in this article the first source you should refer to before Google when it comes to Python, it is the built in manual."
 canonicalUrl: "https://mohamedyamani.com/blog/your-best-friend-before-google-in-python/"
 pubDate: 2021-01-29
 image: "/images/thumbnails/your-best-friend-before-google-in-python.jpg"
 imageAlt: "women sitting on rock near body of water"
 ---
 
-Hello there and welcome!!
+It is no secret (or so I hope) that when programming in any given language, consulting the official documentation (as most of them are up-to-date, extensively detailed and thorough) is crucial to understanding the intricacies and details of the technology we're fiddling with.
 
-Today we'll be discussing **what are Data Structures and Algorithms** (which we'll be referring to as DSA for short throughout the article). With that being said, let's get right into it!
+But sometimes, we find ourselves wasting a lot of time looking for something very specific due to the disorganization of the documentation. Luckily enough, we have a generous method at our proposal, which is the **help() method**
 
-### Introduction
+### Allow me to introduce you to your best friend
 
-_What do you think programmers do?_
+**help()** is a method (function) that invokes a built-in help system which displays official and brief documentation of:
 
-The answer is way simpler than it is expected to be; **they solve problems**.
+- **Modules**
+- **Classes** (user-defined or built-in)
+- **Methods** (user-defined or built-in)
+- **Keywords**
 
-_Now how do they concretely do that?_
+Oh and by the way, if you want to display all Python's keywords:
 
-> They try to store data in the most efficient way to manipulate it in logical and explicit steps to produce a desired output.
+```python
+from keyword import kwlist
+print(kwlist)
+```
 
-We will be elaborating on the last sentence
+The method takes in an object as parameter `help(object)`:
 
-### Data Structures:
+```python
+help(str)
 
-They are different ways to store data in your computer (precisely, in RAM). In other words, they're nothing more than **different ways to represent data**.
+help(int)
 
-Each representation has its own characteristics and implementations that differ from other Data Structures, it is the programmer's role to pick the right one (most optimal for storing, retrieval, searching etc. depending on the problem at hand)
+help(help)
+# I know some of you like myself would attempt this haha
+# It is a valid statement
+```
 
-Let's say you work in an IT team of some hotel and were asked to store all of the residents' information digitally.
+### So how do I use it?
 
-You will first need to get acquainted with the type of data that needs to be stored, and in this example it would be: name, age, phone number, room number etc.
+There are two ways to use this method:
 
-These information will not be magically stored on your computers, they need explicit representations that holds them; Data Structures.
+- **By passing an argument**: as we did in the previous example above.
+- **Without arguments**: which starts an interactive help system on the interpreter's console:
 
-Some examples of DS's are: arrays, linked lists, queues, stacks...
+![Screenshot from 2021-01-29 13-05-49.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1611921962315/QWRomHZi7.png)
 
-Here's an exhaustive list of them for the interested: [Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
+### Why should I care?
 
-**_So how do I pick the right representation?_**
+If you want a brief, concise and official description or documentation about a certain object without going through the lengthy one available online, or if you want to quickly glance over or discover the different methods that can be used on an object, or if you don't have an internet connection available at a given time, **help()** is your go to!
 
-Before answering that, let us introduce Algorithms!
+### The End!
 
-### Algorithms:
-
-So far our scope was limited to computer science, but it will get broadened here!
-
-This is the fun part! Many of us live by algorithms unknowingly!
-
-> Algorithms are logical and concise sequence of steps that solves a particular problem.
-
-Throughout your programming journey, you will learn that everything boils down to making problem (which often is seemingly simple), even SIMPLER!!
-
-Examples are endless here so we'll have fun one:
-
-Say that as you're reading this article, someone knocks on the door.
-
-What is the problem that was raised now? It is that the whoever is knocking must be answered! If you wish not to ignore that is haha
-
-For you to answer the door you follow these steps:
-
-1. Stop whatever you are doing
-
-2. Stand up from whatever you may be sitting on
-
-3. Walk to the door till the distance between you and the door is an arm's reach
-
-4. Reach with your arm to the doorknob
-
-5. Rotate it
-
-6. Pull the door
-
-7. Speak with the person...
-
-This sequence of steps is an example of an algorithm!
-
-Many of you will find it plainly stupid, everyone knows that in order to answer the door you follow the last steps, and I agree as long as you're teaching a human to solve that problem; answering the door.
-
-But if you were to teach the algorithm to a computer, that is another story.
-
-You see, computers do not have intuition and they do not conduct operations on their own, it is the programmer that does the thinking for them, they just execute. So yes you could say that computers are REALLY dumb!
-
-If you were to ask of the computer to answer the door, it will not understand it because you have not yet defined/explained how it could do so!
-
-Thus, you will have to simplify the problem to a maximum (maybe even further more than I did in the last steps) for it to fully "understand".
-
-Now let's return to our hotel example!
-
-Remember my question?
-
-**_How to pick the right data structure for a given problem?_**
-
-You first need to get acquainted with the type of operations that need to be taken upon the data.
-
-Let us reiterate, the given problem is storing the resident's information in the hotel.
-
-What kind of operations are expected?
-
-Adding residents, deleting ones that checked-out, modifying details about them in case of mistakes, verifying the data...
-
-Based on that, the programmer picks the right Data Structure for storing the information.
-
-With experience, you will get familiarized with that process and like anything else, it would become second nature so don't sweat on it!
-
-### Thank you for reading!
-
-That was it ladies and gentlemen, I hope you enjoyed the article!
+I hope you enjoyed reading this! Let me know how you find this type of short articles!
 
 Follow me on [Twitter](https://twitter.com/yamanidev) for more!
 
-Have a nice one!
-
----
- 
 Thumbnail picture by [Roberto Nickson](https://unsplash.com/@rpnickson?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/women-sitting-on-rock-near-body-of-water-vRAYwESFc-U?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
