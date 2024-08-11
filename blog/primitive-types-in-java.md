@@ -9,7 +9,7 @@ imageAlt: "laptop monitor showing java class file on IDE"
 
 ## Introduction
 
-You can think of data (variables) in our programs as boxes that contain values. They vary in **size **and in **shape**, but they’re fundamentally containers of data, nothing fancier.
+You can think of data (variables) in our programs as boxes that contain values. They vary in **size** and in **shape**, but they’re fundamentally containers of data, nothing fancier.
 
 We will be discussing the two types of data in Java through two separate articles; **primitives** and **object references**.
 
