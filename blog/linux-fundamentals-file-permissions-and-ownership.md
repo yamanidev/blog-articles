@@ -89,7 +89,7 @@ The syntax is straightforward:
 
 `chmod <XXX> file`
 
-Where XXX is a 3 digit number. Reading from left to write:
+Where XXX is a 3 digit number. Reading from left to right:
 
 - 1st digit: permission for the owning user.
 - 2nd digit: permission for the owning group
