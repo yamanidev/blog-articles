@@ -75,7 +75,7 @@ I couldn't tell how the audience took it, but there was one guy who seemed inter
 
 To me, it takes only one person to benefit from what I share to consider myself successful at it. I'd like to think I was this time.
 
-I am very happy that I got to meet cool people that I knew from the internet (yes. they're real): [Karim](https://twitter.com/karimkos) and [Houari](https://twitter.com/HouariZegai). It was a pleasure!
+I am very happy that I got to meet cool people that I knew from the internet (yes, they're real): [Karim](https://twitter.com/karimkos) and [Houari](https://twitter.com/HouariZegai). It was a pleasure!
 
 You also get some free photoshoots, and if you don't usually make weird faces, you get to use them. Unlike myself:
 
